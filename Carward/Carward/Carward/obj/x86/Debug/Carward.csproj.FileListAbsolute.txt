@@ -1,0 +1,35 @@
+C:\Users\Terence Tan\Desktop\Carward\Carward\Carward\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Terence Tan\Desktop\Carward\Carward\Carward\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Terence Tan\Desktop\Carward\Carward\Carward\bin\x86\Debug\Content\Images\EnemyCar1.xnb
+C:\Users\Terence Tan\Desktop\Carward\Carward\Carward\bin\x86\Debug\Content\Images\EnemyCar2.xnb
+C:\Users\Terence Tan\Desktop\Carward\Carward\Carward\bin\x86\Debug\Content\Images\EnemyCar3.xnb
+C:\Users\Terence Tan\Desktop\Carward\Carward\Carward\bin\x86\Debug\Content\Images\grass.xnb
+C:\Users\Terence Tan\Desktop\Carward\Carward\Carward\bin\x86\Debug\Content\Images\PlayerCar.xnb
+C:\Users\Terence Tan\Desktop\Carward\Carward\Carward\bin\x86\Debug\Content\Images\road.xnb
+C:\Users\Terence Tan\Desktop\Carward\Carward\Carward\bin\x86\Debug\Content\Images\Star.xnb
+C:\Users\Terence Tan\Desktop\Carward\Carward\Carward\bin\x86\Debug\Content\Images\Truck.xnb
+C:\Users\Terence Tan\Desktop\Carward\Carward\Carward\bin\x86\Debug\Carward.exe
+C:\Users\Terence Tan\Desktop\Carward\Carward\Carward\bin\x86\Debug\Carward.pdb
+C:\Users\Terence Tan\Desktop\Carward\Carward\Carward\obj\x86\Debug\Carward.exe
+C:\Users\Terence Tan\Desktop\Carward\Carward\Carward\obj\x86\Debug\Carward.pdb
+C:\Users\Terence Tan\Desktop\Carward\Carward\Carward\bin\x86\Debug\Content\Sprites\Hud.xnb
+C:\Users\Terence Tan\Desktop\Carward\Carward\Carward\bin\x86\Debug\Content\Images\Missile.xnb
+C:\Users\Steve\Downloads\Carward\Carward\Carward\bin\x86\Debug\Content\Sprites\Hud.xnb
+C:\Users\Steve\Downloads\Carward\Carward\Carward\bin\x86\Debug\Content\Images\EnemyCar1.xnb
+C:\Users\Steve\Downloads\Carward\Carward\Carward\bin\x86\Debug\Content\Images\EnemyCar2.xnb
+C:\Users\Steve\Downloads\Carward\Carward\Carward\bin\x86\Debug\Content\Images\EnemyCar3.xnb
+C:\Users\Steve\Downloads\Carward\Carward\Carward\bin\x86\Debug\Content\Images\Grass.xnb
+C:\Users\Steve\Downloads\Carward\Carward\Carward\bin\x86\Debug\Content\Images\PlayerCar.xnb
+C:\Users\Steve\Downloads\Carward\Carward\Carward\bin\x86\Debug\Content\Images\Road.xnb
+C:\Users\Steve\Downloads\Carward\Carward\Carward\bin\x86\Debug\Content\Images\Star.xnb
+C:\Users\Steve\Downloads\Carward\Carward\Carward\bin\x86\Debug\Content\Images\Truck.xnb
+C:\Users\Steve\Downloads\Carward\Carward\Carward\bin\x86\Debug\Content\Images\Missile.xnb
+C:\Users\Steve\Downloads\Carward\Carward\Carward\bin\x86\Debug\Carward.exe
+C:\Users\Steve\Downloads\Carward\Carward\Carward\bin\x86\Debug\Carward.pdb
+C:\Users\Steve\Downloads\Carward\Carward\Carward\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Steve\Downloads\Carward\Carward\Carward\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Steve\Downloads\Carward\Carward\Carward\obj\x86\Debug\Carward.exe
+C:\Users\Steve\Downloads\Carward\Carward\Carward\obj\x86\Debug\Carward.pdb
+C:\Users\Steve\Downloads\Carward\Carward\Carward\bin\x86\Debug\Content\Sprites\Menu.xnb
+C:\Users\Steve\Downloads\Carward\Carward\Carward\bin\x86\Debug\Content\Images\Main.xnb
+C:\Users\Steve\Downloads\Carward\Carward\Carward\bin\x86\Debug\Content\Sprites\Instruction.xnb
